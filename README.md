@@ -1,9 +1,10 @@
-# Olá eu sou a Ana Carolina Figueiredo👩‍💻
+# Olá! eu sou a Ana Carolina Figueiredo👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ana-carolina-figueiredo-silva-b5a17a260)
 [![WhastApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5535997181089?text=Olá+Ana+Carolina)
 
 ![Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=aninhafigue09&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhafigue09)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no dia a dia
 
