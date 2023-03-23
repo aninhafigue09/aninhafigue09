@@ -5,7 +5,7 @@
 [![WhastApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5535997181089?text=Olá+Ana+Carolina)
 
 ![Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=aninhafigue09&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhafigue09)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no dia a dia
 
